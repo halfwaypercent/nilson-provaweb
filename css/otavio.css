@@ -86,11 +86,65 @@ a{
 }
 
 .principal_imagem{
-    width: 800px;
+    width: 500px;
     height: 500px;
     border-radius: 20px;
     
 }
+
+
+
+
+
+
+
+
+.skills {
+    text-align: center;
+    color: white;
+}
+
+.Box_HS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Box {
+    margin-left: 20px;
+    display: inline-block;
+    background-color: black;
+   
+    border: 2px solid white; 
+    border-radius: 30px; 
+    padding: 15px; 
+    text-align: center; 
+  
+}
+
+.Box img {
+    width: 220px;
+    height: 140px;
+    border-radius: 30px;
+}
+
+.card_body {
+    padding: 20px;
+}
+
+.card_title {
+    color: #7D677E;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
 
 .rodape{
     border-top: solid 1px white;
