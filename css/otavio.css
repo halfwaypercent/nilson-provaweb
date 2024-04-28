@@ -129,17 +129,21 @@ a{
     border-radius: 30px;
 }
 
-.card_body {
+.Box_corpo {
     padding: 20px;
 }
 
-.card_title {
+.Box_titulo {
     color: #7D677E;
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
 
 
+.Box_tx {
+    color:white;
+    margin-bottom: 20px;
+}
 
 
 
