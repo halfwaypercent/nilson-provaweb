@@ -24,7 +24,7 @@ body{
 
 .cabecalho_logo{
     border-radius: 100%;
-    max-width: 40%;
+    max-width: 5%;
 }
 
 .cabecalho_titulo{
@@ -86,7 +86,7 @@ a{
 }
 
 .principal_imagem{
-    width: 500px;
+    width: 470px;
     height: 500px;
     border-radius: 20px;
     
