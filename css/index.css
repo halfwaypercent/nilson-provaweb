@@ -123,11 +123,6 @@ a{
   
 }
 
-.Box img {
-    width: 220px;
-    height: 140px;
-    border-radius: 30px;
-}
 
 .Box_corpo {
     padding: 20px;
@@ -179,3 +174,38 @@ a{
     color: #7D677E;
 }
 
+
+
+
+
+
+.list_friends{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    padding-left: 15%;
+    gap: 20px;
+    
+}
+
+.img_friends{
+    width: 200px;
+    height: 2px;
+    border-radius: 200px;
+    border: solid 3px #004906;
+    padding-top: 200px;
+  }
+
+  .redes-sociais_end{
+    display: flex;
+    gap: 15px;
+    font-size: 25px;
+    padding:20px 20px;
+    flex-direction: column;
+}
+
+.end_secao_titulo{
+    color: #004906;
+    font-size: 30px;
+    padding:20px 180px;
+}
