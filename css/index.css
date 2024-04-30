@@ -189,13 +189,24 @@ a{
 }
 
 .img_friends{
-    width: 200px;
-    height: 2px;
-    border-radius: 200px;
-    border: solid 3px #004906;
-    padding-top: 200px;
+    border-radius: 100%;
+    max-width: 16%;
+    border: solid 3px #7D677E;
+    
   }
 
+  .img_friends_enzo{
+    border-radius: 100%;
+    max-width: 16%;
+    border: solid 3px #7D677E;
+  }
+
+  .img_friends_cornita{
+    border-radius: 100%;
+    max-width: 16%;
+    max-height: 30000%;
+    border: solid 3px #7D677E;
+  }
   .redes-sociais_end{
     display: flex;
     gap: 15px;
@@ -205,7 +216,7 @@ a{
 }
 
 .end_secao_titulo{
-    color: #004906;
+    color: purple;
     font-size: 30px;
     padding:20px 180px;
 }
