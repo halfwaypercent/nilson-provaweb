@@ -145,7 +145,51 @@ a{
     margin-bottom: 20px;
 }
 
+.interesse {
+    text-align: center;
+    color: white;
+}
 
+.Box_IP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Box {
+    margin-left: 20px;
+    display: inline-block;
+    background-color: black;
+   
+    border: 2px solid white; 
+    border-radius: 30px; 
+    padding: 15px; 
+    text-align: center; 
+  
+}
+
+.Box img {
+    width: 220px;
+    height: 140px;
+    border-radius: 30px;
+}
+
+.Box_corpo {
+    padding: 20px;
+}
+
+.Box_titulo {
+    color: #7D677E;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+
+.Box_tx {
+    color:white;
+    margin-bottom: 20px;
+}
 
 
 
