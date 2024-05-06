@@ -92,13 +92,6 @@ a{
     
 }
 
-
-
-
-
-
-
-
 .skills {
     text-align: center;
     color: white;
@@ -145,10 +138,7 @@ a{
     margin-bottom: 20px;
 }
 
-.interesse {
-    text-align: center;
-    color: white;
-}
+
 
 .Box_IP {
     display: flex;
